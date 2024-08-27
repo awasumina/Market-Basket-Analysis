@@ -1,7 +1,7 @@
 # Market Basket Analysis
 
 This repository contains a Python script for performing market basket analysis using the Apriori algorithm and generating association rules. The analysis is applied to an online retail dataset to identify frequent itemsets and association rules.
-
+   
 
 ## Dataset
 
