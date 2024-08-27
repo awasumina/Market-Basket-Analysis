@@ -6,7 +6,7 @@ This repository contains a Python script for performing market basket analysis u
 ## Dataset
 
 The script uses an Excel file named `Online Retail.xlsx`, which should be uploaded to Google Colab for processing. This dataset contains transaction records from an online retail store.
-
+    
 ## Code Description
 
 1. **Data Loading:**
